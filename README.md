@@ -17,5 +17,7 @@ Good old vanilla JavaScript, CSS, HTML
 ## Credits
 
 Colt Steele
+
 udemy | https://www.udemy.com/user/coltsteele/ | The Web Developer Bootcamp
+
 youtube | https://www.youtube.com/c/ColtSteeleCode
