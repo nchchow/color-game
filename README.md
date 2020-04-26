@@ -16,7 +16,7 @@ Good old vanilla JavaScript, CSS, HTML
 
 ## Updates
 
-Guess by Hex Code
+New mode added: Guess by Hex Code
 
 <img width="659" alt="Screen Shot 2020-04-26 at 1 00 11 PM" src="https://user-images.githubusercontent.com/45683565/80318274-e5ab5100-87bd-11ea-9c93-2ba1a48dbbfb.png">
 
