@@ -2,10 +2,6 @@
 
 Guess the colour by looking at its RGB values!
 
-(Update: Guess by Hex Code)
-
-<img width="659" alt="Screen Shot 2020-04-26 at 1 00 11 PM" src="https://user-images.githubusercontent.com/45683565/80318274-e5ab5100-87bd-11ea-9c93-2ba1a48dbbfb.png">
-
 ## Motivation
 
 The purpose of this project are to demonstrate DOM manipulation with JavaScript and practice RGB colours. It is part of a course on Udemy's The Web Developer Bootcamp.
@@ -17,6 +13,12 @@ The purpose of this project are to demonstrate DOM manipulation with JavaScript 
 ## Tech Stack
 
 Good old vanilla JavaScript, CSS, HTML
+
+## Updates
+
+Guess by Hex Code
+
+<img width="659" alt="Screen Shot 2020-04-26 at 1 00 11 PM" src="https://user-images.githubusercontent.com/45683565/80318274-e5ab5100-87bd-11ea-9c93-2ba1a48dbbfb.png">
 
 ## Credits
 
